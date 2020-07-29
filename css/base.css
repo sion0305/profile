@@ -1,0 +1,20 @@
+@font-face { font-family: 'BMHANNAAir'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.0/BMHANNAAir.woff') format('woff'); font-weight: normal; font-style: normal; }
+.basic, .add{
+    font-family: BMHANNAAir;
+    padding : 30px;
+}
+.basic{
+    border : 1px solid green;
+    margin : 10px;
+}
+h3{
+    color:darkseagreen;
+}
+.plus{
+    border : 1px solid black;
+    border-collapse: collapse;
+    font-size : 20px;
+}
+td{
+    padding : 30px;
+}
